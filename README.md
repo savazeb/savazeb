@@ -1,7 +1,7 @@
 Hi 👋 My name is Sava Zeb
 =========================
 
-app and embedded software developer
+an fullstack and embedded software developer
 -----------------------------------
 
 *   🌍  I'm based in japan
